@@ -210,7 +210,6 @@ Makefile: ../QtSqlite.pro G:/Qt5.12/5.12.5/mingw73_64/mkspecs/win32-g++/qmake.co
 		G:/Qt5.12/5.12.5/mingw73_64/mkspecs/features/qt_config.prf \
 		G:/Qt5.12/5.12.5/mingw73_64/mkspecs/win32-g++/qmake.conf \
 		G:/Qt5.12/5.12.5/mingw73_64/mkspecs/features/spec_post.prf \
-		.qmake.stash \
 		G:/Qt5.12/5.12.5/mingw73_64/mkspecs/features/exclusive_builds.prf \
 		G:/Qt5.12/5.12.5/mingw73_64/mkspecs/features/toolchain.prf \
 		G:/Qt5.12/5.12.5/mingw73_64/mkspecs/features/default_pre.prf \
@@ -387,7 +386,6 @@ G:/Qt5.12/5.12.5/mingw73_64/mkspecs/features/qt_functions.prf:
 G:/Qt5.12/5.12.5/mingw73_64/mkspecs/features/qt_config.prf:
 G:/Qt5.12/5.12.5/mingw73_64/mkspecs/win32-g++/qmake.conf:
 G:/Qt5.12/5.12.5/mingw73_64/mkspecs/features/spec_post.prf:
-.qmake.stash:
 G:/Qt5.12/5.12.5/mingw73_64/mkspecs/features/exclusive_builds.prf:
 G:/Qt5.12/5.12.5/mingw73_64/mkspecs/features/toolchain.prf:
 G:/Qt5.12/5.12.5/mingw73_64/mkspecs/features/default_pre.prf:
